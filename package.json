@@ -4,7 +4,7 @@
   "description": "api for quickstreet ",
   "main": "index.js",
   "dependencies": {
-    "async": "^3.1.1",
+    "async": "^3.2.2",
     "bcryptjs": "^2.4.3",
     "colors": "^1.4.0",
     "cookie-parser": "^1.4.4",
